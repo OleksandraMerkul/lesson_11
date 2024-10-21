@@ -36,7 +36,7 @@ margin: 0 auto;}
  {width: 60px; height: 60px;
 background-color: red;
 margin: 0 auto;}
-.content__wrapper-card:hover .card-item--scale {transform: scale(150%);}
+.content__wrapper-card:hover .card-item--scale {transform: scale(2);}
 
 .card-item--rotate {width: 60px; height: 60px;
 background-color: red;
@@ -88,7 +88,7 @@ margin: 0 auto;
     }
     .content__wrapper-card:hover .card-item--backface  {  transform: rotateY(180deg);
     backface-visibility: visible;}
-    
+
 /* ============================================================================= */
 
 
